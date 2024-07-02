@@ -46,7 +46,7 @@ export const QuizScore = ({
                         color: `${colorResult}`,
                     }}
                 >
-                    Acertou {pointsPercentage}
+                    Acertou {pointsPercentage}%
                 </p>
 
                 <p className="text-xl font-medium text-gray-200 leading-loose">
